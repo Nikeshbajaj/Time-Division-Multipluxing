@@ -45,5 +45,3 @@ y = TDM_nik(x)
 ###### Nikesh Bajaj    http://nikeshbajaj.in
 ###### bajaj.nikkey@gmail.com
 ###### PhD Scholar, University of Genova and Queen Mary University of London
-
-%If you have any problem or feedback please contact me 
